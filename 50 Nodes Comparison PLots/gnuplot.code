@@ -1,0 +1,14 @@
+set terminal pdf 
+set output "Packetrate.pdf"
+set title "Receive Rate for 50 Nodes Network" 
+set xlabel "Simulated Seconds"
+set ylabel "Receive Rate"
+plot "aodv.csv" using 1:2 with linespoints title "AODV", "olsr.csv" using 1:2 with linespoints title "OLSR","dsdv.csv" using 1:2 with linespoints title "DSDV", "dsr.csv" using 1:2 with linespoints title "DSR" 
+
+
+
+set title "Packets Received for 50 Nodes Network"
+set xlabel "Simulated Seconds"
+set ylabel "No of Packets Received"
+plot "aodv.csv" using 1:3 with linespoints title "AODV", "olsr.csv" using 1:3 with linespoints title "OLSR","dsdv.csv" using 1:3 with linespoints title "DSDV", "dsr.csv" using 1:3 with linespoints title "DSR" 
+
