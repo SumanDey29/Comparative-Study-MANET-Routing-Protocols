@@ -1,0 +1,3 @@
+EndtoEndDelay +2.41694e+12 +3.9061e+10 +6.31633e+10
+EndtoEndJitterDelay +1.56257e+12 2.56596e+10 +5.45397e+10
+
