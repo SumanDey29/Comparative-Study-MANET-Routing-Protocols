@@ -1,0 +1,414 @@
+Consolidate compiler generated dependencies of target scratch_manet-routing-compare
+100.262 7 received one packet from 10.1.1.18
+100.511 7 received one packet from 10.1.1.18
+100.761 7 received one packet from 10.1.1.18
+101.011 7 received one packet from 10.1.1.18
+101.241 4 received one packet from 10.1.1.15
+101.261 7 received one packet from 10.1.1.18
+101.489 4 received one packet from 10.1.1.15
+101.511 7 received one packet from 10.1.1.18
+101.739 4 received one packet from 10.1.1.15
+101.761 7 received one packet from 10.1.1.18
+101.989 4 received one packet from 10.1.1.15
+102.011 7 received one packet from 10.1.1.18
+102.239 4 received one packet from 10.1.1.15
+102.261 7 received one packet from 10.1.1.18
+102.489 4 received one packet from 10.1.1.15
+102.511 7 received one packet from 10.1.1.18
+102.739 4 received one packet from 10.1.1.15
+102.761 7 received one packet from 10.1.1.18
+102.989 4 received one packet from 10.1.1.15
+103.011 7 received one packet from 10.1.1.18
+103.239 4 received one packet from 10.1.1.15
+103.261 7 received one packet from 10.1.1.18
+103.489 4 received one packet from 10.1.1.15
+103.511 7 received one packet from 10.1.1.18
+103.739 4 received one packet from 10.1.1.15
+103.989 4 received one packet from 10.1.1.15
+104.239 4 received one packet from 10.1.1.15
+104.489 4 received one packet from 10.1.1.15
+104.739 4 received one packet from 10.1.1.15
+104.989 4 received one packet from 10.1.1.15
+105.239 4 received one packet from 10.1.1.15
+105.276 7 received one packet from 10.1.1.18
+105.329 3 received one packet from 10.1.1.14
+105.33 3 received one packet from 10.1.1.14
+105.331 3 received one packet from 10.1.1.14
+105.467 3 received one packet from 10.1.1.14
+105.489 4 received one packet from 10.1.1.15
+105.512 7 received one packet from 10.1.1.18
+105.717 3 received one packet from 10.1.1.14
+105.739 4 received one packet from 10.1.1.15
+105.967 3 received one packet from 10.1.1.14
+105.989 4 received one packet from 10.1.1.15
+106.217 3 received one packet from 10.1.1.14
+106.239 4 received one packet from 10.1.1.15
+106.467 3 received one packet from 10.1.1.14
+106.489 4 received one packet from 10.1.1.15
+106.717 3 received one packet from 10.1.1.14
+106.739 4 received one packet from 10.1.1.15
+106.967 3 received one packet from 10.1.1.14
+106.989 4 received one packet from 10.1.1.15
+107.217 3 received one packet from 10.1.1.14
+107.239 4 received one packet from 10.1.1.15
+107.467 3 received one packet from 10.1.1.14
+107.489 4 received one packet from 10.1.1.15
+107.511 7 received one packet from 10.1.1.18
+107.717 3 received one packet from 10.1.1.14
+107.739 4 received one packet from 10.1.1.15
+107.761 7 received one packet from 10.1.1.18
+107.967 3 received one packet from 10.1.1.14
+107.989 4 received one packet from 10.1.1.15
+108.013 7 received one packet from 10.1.1.18
+108.217 3 received one packet from 10.1.1.14
+108.239 4 received one packet from 10.1.1.15
+108.261 7 received one packet from 10.1.1.18
+108.475 3 received one packet from 10.1.1.14
+108.489 4 received one packet from 10.1.1.15
+108.511 7 received one packet from 10.1.1.18
+108.583 0 received one packet from 10.1.1.11
+108.717 3 received one packet from 10.1.1.14
+108.739 4 received one packet from 10.1.1.15
+108.761 7 received one packet from 10.1.1.18
+108.788 0 received one packet from 10.1.1.11
+108.967 3 received one packet from 10.1.1.14
+108.989 4 received one packet from 10.1.1.15
+109.011 7 received one packet from 10.1.1.18
+109.038 0 received one packet from 10.1.1.11
+109.217 3 received one packet from 10.1.1.14
+109.239 4 received one packet from 10.1.1.15
+109.261 7 received one packet from 10.1.1.18
+109.467 3 received one packet from 10.1.1.14
+109.489 4 received one packet from 10.1.1.15
+109.511 7 received one packet from 10.1.1.18
+109.717 3 received one packet from 10.1.1.14
+109.739 4 received one packet from 10.1.1.15
+109.761 7 received one packet from 10.1.1.18
+109.967 3 received one packet from 10.1.1.14
+109.989 4 received one packet from 10.1.1.15
+110.011 7 received one packet from 10.1.1.18
+110.217 3 received one packet from 10.1.1.14
+110.239 4 received one packet from 10.1.1.15
+110.261 7 received one packet from 10.1.1.18
+110.467 3 received one packet from 10.1.1.14
+110.489 4 received one packet from 10.1.1.15
+110.511 7 received one packet from 10.1.1.18
+110.717 3 received one packet from 10.1.1.14
+110.739 4 received one packet from 10.1.1.15
+110.761 7 received one packet from 10.1.1.18
+110.967 3 received one packet from 10.1.1.14
+110.989 4 received one packet from 10.1.1.15
+111.011 7 received one packet from 10.1.1.18
+111.217 3 received one packet from 10.1.1.14
+111.239 4 received one packet from 10.1.1.15
+111.261 7 received one packet from 10.1.1.18
+111.467 3 received one packet from 10.1.1.14
+111.489 4 received one packet from 10.1.1.15
+111.513 7 received one packet from 10.1.1.18
+111.717 3 received one packet from 10.1.1.14
+111.739 4 received one packet from 10.1.1.15
+111.761 7 received one packet from 10.1.1.18
+111.967 3 received one packet from 10.1.1.14
+112.011 7 received one packet from 10.1.1.18
+112.218 3 received one packet from 10.1.1.14
+112.261 7 received one packet from 10.1.1.18
+112.467 3 received one packet from 10.1.1.14
+112.511 7 received one packet from 10.1.1.18
+112.717 3 received one packet from 10.1.1.14
+112.761 7 received one packet from 10.1.1.18
+112.967 3 received one packet from 10.1.1.14
+113.011 7 received one packet from 10.1.1.18
+113.217 3 received one packet from 10.1.1.14
+113.261 7 received one packet from 10.1.1.18
+113.467 3 received one packet from 10.1.1.14
+113.511 7 received one packet from 10.1.1.18
+113.717 3 received one packet from 10.1.1.14
+113.761 7 received one packet from 10.1.1.18
+114.011 7 received one packet from 10.1.1.18
+114.261 7 received one packet from 10.1.1.18
+114.511 7 received one packet from 10.1.1.18
+114.761 7 received one packet from 10.1.1.18
+115.011 7 received one packet from 10.1.1.18
+115.261 7 received one packet from 10.1.1.18
+115.511 7 received one packet from 10.1.1.18
+115.761 7 received one packet from 10.1.1.18
+116.011 7 received one packet from 10.1.1.18
+116.261 7 received one packet from 10.1.1.18
+116.511 7 received one packet from 10.1.1.18
+116.761 7 received one packet from 10.1.1.18
+117.011 7 received one packet from 10.1.1.18
+117.261 7 received one packet from 10.1.1.18
+117.511 7 received one packet from 10.1.1.18
+117.761 7 received one packet from 10.1.1.18
+118.011 7 received one packet from 10.1.1.18
+118.261 7 received one packet from 10.1.1.18
+118.511 7 received one packet from 10.1.1.18
+118.761 7 received one packet from 10.1.1.18
+119.011 7 received one packet from 10.1.1.18
+119.261 7 received one packet from 10.1.1.18
+119.512 7 received one packet from 10.1.1.18
+119.761 7 received one packet from 10.1.1.18
+120.011 7 received one packet from 10.1.1.18
+120.232 3 received one packet from 10.1.1.14
+120.261 7 received one packet from 10.1.1.18
+120.467 3 received one packet from 10.1.1.14
+120.511 7 received one packet from 10.1.1.18
+120.717 3 received one packet from 10.1.1.14
+120.761 7 received one packet from 10.1.1.18
+120.967 3 received one packet from 10.1.1.14
+121.011 7 received one packet from 10.1.1.18
+121.217 3 received one packet from 10.1.1.14
+121.261 7 received one packet from 10.1.1.18
+121.467 3 received one packet from 10.1.1.14
+121.511 7 received one packet from 10.1.1.18
+121.717 3 received one packet from 10.1.1.14
+121.732 8 received one packet from 10.1.1.19
+121.761 7 received one packet from 10.1.1.18
+121.967 3 received one packet from 10.1.1.14
+122.011 7 received one packet from 10.1.1.18
+122.217 3 received one packet from 10.1.1.14
+122.261 7 received one packet from 10.1.1.18
+122.467 3 received one packet from 10.1.1.14
+122.511 7 received one packet from 10.1.1.18
+122.717 3 received one packet from 10.1.1.14
+122.761 7 received one packet from 10.1.1.18
+122.967 3 received one packet from 10.1.1.14
+123.011 7 received one packet from 10.1.1.18
+123.217 3 received one packet from 10.1.1.14
+123.261 7 received one packet from 10.1.1.18
+123.467 3 received one packet from 10.1.1.14
+123.511 7 received one packet from 10.1.1.18
+123.639 1 received one packet from 10.1.1.12
+123.717 3 received one packet from 10.1.1.14
+123.761 7 received one packet from 10.1.1.18
+123.868 1 received one packet from 10.1.1.12
+123.967 3 received one packet from 10.1.1.14
+124.011 7 received one packet from 10.1.1.18
+124.217 3 received one packet from 10.1.1.14
+124.261 7 received one packet from 10.1.1.18
+124.467 3 received one packet from 10.1.1.14
+124.511 7 received one packet from 10.1.1.18
+124.717 3 received one packet from 10.1.1.14
+124.761 7 received one packet from 10.1.1.18
+124.967 3 received one packet from 10.1.1.14
+125.011 7 received one packet from 10.1.1.18
+125.217 3 received one packet from 10.1.1.14
+125.261 7 received one packet from 10.1.1.18
+125.304 0 received one packet from 10.1.1.11
+125.467 3 received one packet from 10.1.1.14
+125.511 7 received one packet from 10.1.1.18
+125.536 0 received one packet from 10.1.1.11
+125.717 3 received one packet from 10.1.1.14
+125.761 7 received one packet from 10.1.1.18
+125.788 0 received one packet from 10.1.1.11
+125.967 3 received one packet from 10.1.1.14
+126.011 7 received one packet from 10.1.1.18
+126.036 0 received one packet from 10.1.1.11
+126.217 3 received one packet from 10.1.1.14
+126.261 7 received one packet from 10.1.1.18
+126.288 0 received one packet from 10.1.1.11
+126.467 3 received one packet from 10.1.1.14
+126.511 7 received one packet from 10.1.1.18
+126.717 3 received one packet from 10.1.1.14
+126.761 7 received one packet from 10.1.1.18
+126.967 3 received one packet from 10.1.1.14
+127.011 7 received one packet from 10.1.1.18
+127.261 7 received one packet from 10.1.1.18
+127.512 7 received one packet from 10.1.1.18
+127.764 7 received one packet from 10.1.1.18
+128.011 7 received one packet from 10.1.1.18
+128.261 7 received one packet from 10.1.1.18
+128.511 7 received one packet from 10.1.1.18
+128.761 7 received one packet from 10.1.1.18
+129.011 7 received one packet from 10.1.1.18
+129.261 7 received one packet from 10.1.1.18
+129.511 7 received one packet from 10.1.1.18
+129.77 7 received one packet from 10.1.1.18
+130.011 7 received one packet from 10.1.1.18
+130.261 7 received one packet from 10.1.1.18
+130.511 7 received one packet from 10.1.1.18
+130.761 7 received one packet from 10.1.1.18
+131.011 7 received one packet from 10.1.1.18
+131.261 7 received one packet from 10.1.1.18
+131.513 7 received one packet from 10.1.1.18
+131.761 7 received one packet from 10.1.1.18
+132.011 7 received one packet from 10.1.1.18
+132.261 7 received one packet from 10.1.1.18
+132.511 7 received one packet from 10.1.1.18
+132.761 7 received one packet from 10.1.1.18
+133.011 7 received one packet from 10.1.1.18
+133.261 7 received one packet from 10.1.1.18
+133.511 7 received one packet from 10.1.1.18
+133.761 7 received one packet from 10.1.1.18
+134.011 7 received one packet from 10.1.1.18
+134.261 7 received one packet from 10.1.1.18
+134.511 7 received one packet from 10.1.1.18
+134.761 7 received one packet from 10.1.1.18
+135.011 7 received one packet from 10.1.1.18
+135.261 7 received one packet from 10.1.1.18
+135.511 7 received one packet from 10.1.1.18
+135.761 7 received one packet from 10.1.1.18
+136.011 7 received one packet from 10.1.1.18
+136.261 7 received one packet from 10.1.1.18
+136.511 7 received one packet from 10.1.1.18
+136.761 7 received one packet from 10.1.1.18
+137.011 7 received one packet from 10.1.1.18
+137.261 7 received one packet from 10.1.1.18
+139.96 8 received one packet from 10.1.1.19
+140.205 8 received one packet from 10.1.1.19
+140.455 8 received one packet from 10.1.1.19
+140.705 8 received one packet from 10.1.1.19
+140.955 8 received one packet from 10.1.1.19
+141.205 8 received one packet from 10.1.1.19
+141.455 8 received one packet from 10.1.1.19
+141.705 8 received one packet from 10.1.1.19
+141.955 8 received one packet from 10.1.1.19
+142.205 8 received one packet from 10.1.1.19
+142.455 8 received one packet from 10.1.1.19
+142.707 8 received one packet from 10.1.1.19
+142.955 8 received one packet from 10.1.1.19
+143.205 8 received one packet from 10.1.1.19
+143.455 8 received one packet from 10.1.1.19
+143.705 8 received one packet from 10.1.1.19
+143.955 8 received one packet from 10.1.1.19
+144.205 8 received one packet from 10.1.1.19
+144.455 8 received one packet from 10.1.1.19
+144.705 8 received one packet from 10.1.1.19
+144.955 8 received one packet from 10.1.1.19
+145.205 8 received one packet from 10.1.1.19
+145.455 8 received one packet from 10.1.1.19
+145.705 8 received one packet from 10.1.1.19
+145.955 8 received one packet from 10.1.1.19
+146.205 8 received one packet from 10.1.1.19
+146.455 8 received one packet from 10.1.1.19
+146.705 8 received one packet from 10.1.1.19
+146.955 8 received one packet from 10.1.1.19
+147.205 8 received one packet from 10.1.1.19
+147.455 8 received one packet from 10.1.1.19
+147.705 8 received one packet from 10.1.1.19
+147.956 8 received one packet from 10.1.1.19
+148.205 8 received one packet from 10.1.1.19
+148.455 8 received one packet from 10.1.1.19
+148.705 8 received one packet from 10.1.1.19
+148.873 1 received one packet from 10.1.1.12
+148.955 8 received one packet from 10.1.1.19
+149.115 1 received one packet from 10.1.1.12
+149.205 8 received one packet from 10.1.1.19
+149.365 1 received one packet from 10.1.1.12
+149.457 8 received one packet from 10.1.1.19
+149.615 1 received one packet from 10.1.1.12
+149.705 8 received one packet from 10.1.1.19
+149.865 1 received one packet from 10.1.1.12
+149.955 8 received one packet from 10.1.1.19
+----Flow ID:1
+Src Addr10.1.1.18Dst Addr 10.1.1.8
+Sent Packets=199
+Received Packets =136
+Lost Packets =63
+Packet Delivery Ratio =68%
+Packet Loss Ratio =31%
+Delay =+8.14348e+07ns
+Jitter =+6.72686e+07ns
+Throughput =2.64187Kbps
+----Flow ID:2
+Src Addr10.1.1.20Dst Addr 10.1.1.10
+Sent Packets=199
+Received Packets =0
+Lost Packets =199
+Packet Delivery Ratio =0%
+Packet Loss Ratio =100%
+Delay =+0ns
+Jitter =+0ns
+Throughput =-0Kbps
+----Flow ID:3
+Src Addr10.1.1.17Dst Addr 10.1.1.7
+Sent Packets=199
+Received Packets =0
+Lost Packets =199
+Packet Delivery Ratio =0%
+Packet Loss Ratio =100%
+Delay =+0ns
+Jitter =+0ns
+Throughput =-0Kbps
+----Flow ID:4
+Src Addr10.1.1.19Dst Addr 10.1.1.9
+Sent Packets=198
+Received Packets =42
+Lost Packets =156
+Packet Delivery Ratio =21%
+Packet Loss Ratio =78%
+Delay =+4.89307e+07ns
+Jitter =+3.33868e+07ns
+Throughput =0.61294Kbps
+----Flow ID:5
+Src Addr10.1.1.14Dst Addr 10.1.1.4
+Sent Packets=198
+Received Packets =65
+Lost Packets =133
+Packet Delivery Ratio =32%
+Packet Loss Ratio =67%
+Delay =+1.32147e+10ns
+Jitter =+4.65964e+09ns
+Throughput =1.77966Kbps
+----Flow ID:6
+Src Addr10.1.1.16Dst Addr 10.1.1.6
+Sent Packets=197
+Received Packets =0
+Lost Packets =197
+Packet Delivery Ratio =0%
+Packet Loss Ratio =100%
+Delay =+0ns
+Jitter =+0ns
+Throughput =-0Kbps
+----Flow ID:7
+Src Addr10.1.1.11Dst Addr 10.1.1.1
+Sent Packets=196
+Received Packets =8
+Lost Packets =188
+Packet Delivery Ratio =4%
+Packet Loss Ratio =95%
+Delay =+8.9703e+07ns
+Jitter =+8.13313e+07ns
+Throughput =0.227688Kbps
+----Flow ID:8
+Src Addr10.1.1.13Dst Addr 10.1.1.3
+Sent Packets=196
+Received Packets =0
+Lost Packets =196
+Packet Delivery Ratio =0%
+Packet Loss Ratio =100%
+Delay =+0ns
+Jitter =+0ns
+Throughput =-0Kbps
+----Flow ID:9
+Src Addr10.1.1.12Dst Addr 10.1.1.2
+Sent Packets=196
+Received Packets =7
+Lost Packets =189
+Packet Delivery Ratio =3%
+Packet Loss Ratio =96%
+Delay =+4.39111e+07ns
+Jitter =+3.31438e+07ns
+Throughput =0.103202Kbps
+----Flow ID:10
+Src Addr10.1.1.15Dst Addr 10.1.1.5
+Sent Packets=196
+Received Packets =43
+Lost Packets =153
+Packet Delivery Ratio =21%
+Packet Loss Ratio =78%
+Delay =+1.69578e+07ns
+Jitter =+2.74365e+06ns
+Throughput =2.94336Kbps
+
+--------Total Results of the simulation----------
+
+Total Sent Packets  =1974
+Total Received Packets =301
+Total Lost Packets =1673
+Packet Loss Ratio =84%
+Packet Delivery Ratio =15%
+Average Throughput =0.830872Kbps
+End to End Delay =+1.34956e+10ns
+End to End Jitter Delay =+4.87751e+09ns
+Total Number of Packet transmission =10
