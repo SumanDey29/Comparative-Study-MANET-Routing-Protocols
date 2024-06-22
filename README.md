@@ -46,11 +46,11 @@ To set up the project, follow these steps:
 **Install required external tools:**
 
 Wireshark
-Trace Metric__
-Flow Monitor__
-NetAnim__
-GNUplot__
-Python__
+Trace Metric<br/>
+Flow Monitor<br/>
+NetAnim<br/>
+GNUplot<br/>
+Python<br/>
 
 Analyze the output files:
 
@@ -76,8 +76,7 @@ Address security issues in MANET protocols.
 Optimize protocols for better performance.
 Enhance protocol parameters to improve QoS and energy efficiency.
 Explore additional routing protocols beyond DSDV, AODV, DSR, and OLSR.
-Contributing
-Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
+
 
 ## Acknowledgements
 We would like to thank our college for providing the necessary environment and resources for this project. Special thanks to our project supervisor, Prof. (Dr.) Anindya Sen, for his invaluable guidance.
