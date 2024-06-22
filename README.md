@@ -1,6 +1,12 @@
 # Comparative Study of MANET Routing Protocols
 Welcome to the "Comparative Study of MANET Routing Protocols" project! This repository contains the complete project work for comparing and analyzing different routing protocols in Mobile Ad hoc Networks (MANETs) using Network Simulator 3 (NS3). The primary focus of this project is to evaluate and contrast the performance of four major MANET routing protocols: DSDV, AODV, DSR, and OLSR.
 
+## Contributors
+
+- **Suman Dey** - [GitHub](https://github.com/yourusername), [LinkedIn](https://www.linkedin.com/in/sumandey29)
+- **Isha Ghosh** - [GitHub](https://github.com/isha-ghosh/), [LinkedIn](https://www.linkedin.com/in/isha-ghosh-204180262/)
+- **Bhaswati Ghosh** - [GitHub](), [LinkedIn](https://www.linkedin.com/in/bhaswati-mandal/)
+
 ## Table of Content
 - [Introduction](#introduction)
 - [Objectives](#objectives)
