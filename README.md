@@ -33,10 +33,10 @@ Contribute to the understanding of MANET routing protocol performance in various
 The growing importance of MANETs in modern communication scenarios motivated this study. MANETs' decentralized and infrastructure-less design makes them suitable for situations where traditional networks are impractical. This project aims to fill the gap in wireless networking research by providing comprehensive insights into both reactive and proactive MANET routing protocols through simulation-based assessments.
 
 ## Project Structure
-src/: Contains the source code (.cc file) for the NS3 simulations.
-output_files/: Contains the output files and data from the simulations, including pcap, flowmon, and trace files of different protocols.
-output_plots/: Contains graphical representations of the simulation results.
-plot_scripts/: Contains the required codes (GNU Plots, Python) for ploting the results.
+src/: Contains the source code (.cc file) for the NS3 simulations.__
+output_files/: Contains the output files and data from the simulations, including pcap, flowmon, and trace files of different protocols.__
+output_plots/: Contains graphical representations of the simulation results.__
+plot_scripts/: Contains the required codes (GNU Plots, Python) for ploting the results.__
 
 ## Installation
 To set up the project, follow these steps:
@@ -46,16 +46,16 @@ To set up the project, follow these steps:
 **Install required external tools:**
 
 Wireshark
-Trace Metric
-Flow Monitor
-NetAnim
-GNUplot
-Python
+Trace Metric__
+Flow Monitor__
+NetAnim__
+GNUplot__
+Python__
 
 Analyze the output files:
 
-Use Wireshark to analyze pcap files.
-Use GNUplot to plot graphs from the data.
+Use Wireshark to analyze pcap files.__
+Use GNUplot to plot graphs from the data.__
 
 ## Tools Used
 NS3: Primary simulation framework.
