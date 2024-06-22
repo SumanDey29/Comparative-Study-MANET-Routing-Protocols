@@ -22,7 +22,7 @@ Welcome to the "Comparative Study of MANET Routing Protocols" project! This repo
 ## Introduction
 Mobile Ad hoc Networks (MANETs) are decentralized, infrastructure-less networks ideal for dynamic and resource-constrained environments. This project focuses on a detailed comparison of four MANET routing protocols: Destination-Sequenced Distance Vector (DSDV), Ad-hoc On-demand Distance Vector (AODV), Dynamic Source Routing (DSR), and Optimized Link State Routing (OLSR). Through rigorous simulations and performance evaluations, this study aims to provide essential insights into each protocol's strengths and weaknesses.
 
-##Objectives
+## Objectives
 Compare and contrast DSDV, AODV, DSR, and OLSR routing protocols.
 Evaluate protocols based on performance metrics: throughput, Packet Delivery Ratio (PDR), latency, and jitter.
 Use NS3 for simulation and analysis.
