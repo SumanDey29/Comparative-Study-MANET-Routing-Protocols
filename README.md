@@ -33,10 +33,10 @@ Contribute to the understanding of MANET routing protocol performance in various
 The growing importance of MANETs in modern communication scenarios motivated this study. MANETs' decentralized and infrastructure-less design makes them suitable for situations where traditional networks are impractical. This project aims to fill the gap in wireless networking research by providing comprehensive insights into both reactive and proactive MANET routing protocols through simulation-based assessments.
 
 ## Project Structure
-src/: Contains the source code (.cc file) for the NS3 simulations.__
-output_files/: Contains the output files and data from the simulations, including pcap, flowmon, and trace files of different protocols.__
-output_plots/: Contains graphical representations of the simulation results.__
-plot_scripts/: Contains the required codes (GNU Plots, Python) for ploting the results.__
+src/: Contains the source code (.cc file) for the NS3 simulations.<br/>
+output_files/: Contains the output files and data from the simulations, including pcap, flowmon, and trace files of different protocols.<br/>
+output_plots/: Contains graphical representations of the simulation results.<br/>
+plot_scripts/: Contains the required codes (GNU Plots, Python) for ploting the results.<br/>
 
 ## Installation
 To set up the project, follow these steps:
@@ -54,16 +54,16 @@ Python__
 
 Analyze the output files:
 
-Use Wireshark to analyze pcap files.__
-Use GNUplot to plot graphs from the data.__
+Use Wireshark to analyze pcap files.<br/>
+Use GNUplot to plot graphs from the data.<br/>
 
 ## Tools Used
-NS3: Primary simulation framework.
-Wireshark: For packet-level analysis.
-NetAnim: For network visualization.
-GNUplot: For generating graphical plots.
-Flowmonitor: For traffic flow monitoring (not supported by DSR).
-Pcap Tracefiles: For capturing packet-level details.
+NS3: Primary simulation framework.<br/>
+Wireshark: For packet-level analysis.<br/>
+NetAnim: For network visualization.<br/>
+GNUplot: For generating graphical plots.<br/>
+Flowmonitor: For traffic flow monitoring (not supported by DSR).<br/>
+Pcap Tracefiles: For capturing packet-level details.<br/>
 
 ## Results and Analysis
 The project compares the performance of DSDV, AODV, DSR, and OLSR protocols based on metrics like throughput, PDR, latency, and jitter. Graphical comparisons are provided to illustrate the strengths and weaknesses of each protocol.
