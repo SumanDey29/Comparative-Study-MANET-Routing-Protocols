@@ -5,7 +5,7 @@ Welcome to the "Comparative Study of MANET Routing Protocols" project! This repo
 
 - **Suman Dey** - [GitHub](https://github.com/SumanDey29), [LinkedIn](https://www.linkedin.com/in/sumandey29)
 - **Isha Ghosh** - [GitHub](https://github.com/isha-ghosh/), [LinkedIn](https://www.linkedin.com/in/isha-ghosh-204180262/)
-- **Bhaswati Ghosh** - [GitHub](), [LinkedIn](https://www.linkedin.com/in/bhaswati-mandal/)
+- **Bhaswati Ghosh** - [GitHub](https://github.com/bhaswatimandal), [LinkedIn](https://www.linkedin.com/in/bhaswati-mandal/)
 
 ## Table of Content
 - [Introduction](#introduction)
